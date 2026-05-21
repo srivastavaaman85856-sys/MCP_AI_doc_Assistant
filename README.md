@@ -32,7 +32,7 @@ An AI-powered document assistant built using:
 
 \- Python
 
-\- Gemini 1.5 Flash
+\- Gemini 2.5 Flash
 
 \- MCP SDK
 
